@@ -1,3 +1,4 @@
 ## Php log in set up
 
-> this repo was created in support of NIDs Lab 2106 VCC
+> These files are prerequisites for Lab_NIDS
+> Copy files into your /var/www/html directory (LAMP)
